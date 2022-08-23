@@ -1,3 +1,2 @@
-#github projects
-#sudoku
 # sudoku
+simple sudoku game with three difficulty levels 
